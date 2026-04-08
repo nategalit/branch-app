@@ -1,5 +1,6 @@
 import streamlit as st
 import psycopg2
+import pandas as pd
 import re
 
 st.set_page_config(page_title="Manage Directory", page_icon="📁", layout="wide")
