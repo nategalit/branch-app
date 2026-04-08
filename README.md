@@ -17,10 +17,10 @@ Branch is a community connection platform that bridges the gap between volunteer
 (Insert your ERD image here. e.g., ![ERD](erd.png))
 How to Run Locally
 
-    Clone this repository.
+- Clone this repository.
 
-    Install dependencies: pip install -r requirements.txt
+- Install dependencies: pip install -r requirements.txt
 
-    Create a .streamlit/secrets.toml file and add the DB_URL connection string.
+- Create a .streamlit/secrets.toml file and add the DB_URL connection string.
 
-    Run the app: streamlit run streamlit_app.py
+- Run the app: streamlit run streamlit_app.py
